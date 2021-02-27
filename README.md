@@ -23,3 +23,9 @@ My biggest, longest and the most interesting contribution to FLOSS is
 object-relational mapper for Python. I joined the project (initaill
 authored by
 [Ian Bicking](https://www.ianbicking.org/projects.html#pythonweb)) in 2004.
+
+Also I forked CheetahTemplate and updated it for Python 3. See
+https://github.com/CheetahTemplate3/cheetah3
+
+For many reasons I stuck with old Python 2.7 so I still maintain these
+projects to work with 2.7 and 3.4+.
