@@ -10,7 +10,8 @@ Primary programming languge: Python (since 1996).
 
 As a web developer I constantly write HTML/CSS/JavaScript.
 
-See my real home page at https://phdru.name/
+See my real home page at https://phdru.name/ (not very interesting,
+really).
 
 Contacts: https://phdru.name/contacts.html
 
